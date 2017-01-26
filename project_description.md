@@ -40,22 +40,15 @@ This project contains three files:
 
 In the Terminal or Command Prompt, navigate to the folder containing the project files, and then use the command `jupyter notebook finding_donors.ipynb` to open up a browser window or tab to work with your notebook. Alternatively, you can use the command `jupyter notebook` or `ipython notebook` and navigate to the notebook file in the browser window that opens. Follow the instructions in the notebook and answer each question presented to successfully complete the project. A **README** file has also been provided with the project files which may contain additional necessary information or instruction for the project. 
 
-## Submitting the Project
-
-### Evaluation
-Your project will be reviewed by a Udacity reviewer against the **<a href="https://review.udacity.com/#!/rubrics/406/view" target="_blank">Finding Donors for CharityML project rubric</a>**. Be sure to review this rubric thoroughly and self-evaluate your project before submission. All criteria found in the rubric must be *meeting specifications* for you to pass.
-
-### Submission Files
-When you are ready to submit your project, collect the following files and compress them into a single archive for upload. Alternatively, you may supply the following files on your GitHub Repo in a folder named `student_intervention` for ease of access:
- - The `finding_donors.ipynb` notebook file with all questions answered and all code cells executed and displaying output.
- - An **HTML** export of the project notebook with the name **report.html**. This file *must* be present for your project to be evaluated.
-
-Once you have collected these files and reviewed the project rubric, proceed to the project submission page.
-
-### I'm Ready!
-When you're ready to submit your project, click on the **Submit Project** button at the bottom of the page.
-
-If you are having any problems submitting your project or wish to check on the status of your submission, please email us at **machine-support@udacity.com** or visit us in the <a href="http://discussions.udacity.com" target="_blank">discussion forums</a>.
-
-### What's Next?
-You will get an email as soon as your reviewer has feedback for you. In the meantime, review your next project and feel free to get started on it or the courses supporting it!
+## Links
+- [Machine learning book](https://github.com/rasbt/python-machine-learning-book)
+- [Bioinfomatics](http://nbviewer.jupyter.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
+- [Exploratory data analysis 1](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
+- [Exploratory data analysis 2](http://sharpsightlabs.com/blog/machine-learning-prerequisite-isnt-math/)
+- [Big O](https://github.com/jeff1evesque/machine-learning/wiki/Algorithm:-Big-O-Notation)
+- [SVM running time](https://www.quora.com/What-are-the-running-times-of-various-machine-learning-algorithms-like-SVM-neural-networks-etc-in-terms-of-big-O-notation)
+- [Communication Data Science 1](http://blog.kaggle.com/2016/06/13/communicating-data-science-an-interview-with-a-storytelling-expert-tyler-byers/)
+- [Communication Data Science 2](https://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
+- [Random grid search 1](http://scikit-learn.org/stable/modules/grid_search.html#randomized-parameter-search)
+-[Random grid serach 2](http://scikit-learn.org/stable/auto_examples/model_selection/randomized_search.html)
+- [Feature learning in python](http://machinelearningmastery.com/feature-selection-machine-learning-python/)
